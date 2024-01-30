@@ -99,7 +99,7 @@ Screenschots
 <img width="500" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/20209128-abde-458d-8d19-b6f3d1775de6">
 <img width="887" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/5e1e2179-41fb-477e-8784-6b2fe85f7aa7">
 <img width="904" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/3ad10395-9b62-4cc7-8e92-d3a301099e21
-<img width="433" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/ac12c4b5-1c02-44ff-b629-3f768960e1b6">
+<img width="891" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/0d36f396-3deb-4ae2-ad15-faab7169eac8">
 <img width="350" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/ba560f06-e78a-4187-bfe2-12baf0be3b87">
 
 Mp4
