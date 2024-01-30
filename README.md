@@ -61,10 +61,6 @@ Before you begin, ensure you have the following installed on your system:
    - Next to each user entry, there is a "Delete" button.
    - Click on the "Delete" button to remove the respective user from the database.
 
-### Registration System
-
-This is a simple registration system built using PHP and MySQL. It allows users to register by providing their name, email, and date of birth. Registered users can be viewed in a list along with their details, and individual registrations can be deleted.
-
 ## Deployment
 
 Once you have completed the installation steps and configured the project, you can access the application by navigating to the following URL in your web browser:
