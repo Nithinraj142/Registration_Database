@@ -93,16 +93,22 @@ This URL corresponds to the location where you have deployed the project on your
 
 Make sure to replace `"path/to/your/project"` with the actual path to your project directory relative to the `localhost` URL. Additionally, include the `registration.sql` file in the repository so that users can easily set up the database.
 
-Screenschots 
+### Screenschots 
 
-<img width="506" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/f76edc82-356b-4bc9-a450-554c49124557">
-<img width="500" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/20209128-abde-458d-8d19-b6f3d1775de6">
-<img width="887" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/5e1e2179-41fb-477e-8784-6b2fe85f7aa7">
-<img width="904" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/3ad10395-9b62-4cc7-8e92-d3a301099e21
-<img width="891" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/0d36f396-3deb-4ae2-ad15-faab7169eac8">
-<img width="350" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/ba560f06-e78a-4187-bfe2-12baf0be3b87">
+<img width="506" alt="Screenshot 2024-01-30 180145" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/7b099886-5a4a-413b-b6e3-48861c650deb">
+<img width="500" alt="Screenshot 2024-01-30 180232" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/5c9673e4-8d29-4a6b-a37a-3cbd7c8e9cbf">
+<img width="887" alt="Screenshot 2024-01-30 180301" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/b1982b59-5e5a-4489-af19-ccaa35c023ae">
+<img width="904" alt="Screenshot 2024-01-30 180322" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/3631bdd9-4729-43a0-adcc-49d16ca4792c">
+<img width="433" alt="Screenshot 2024-01-30 180357" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/8fa0156d-4ca9-42dd-9ad3-045bb960dc94">
+<img width="350" alt="Screenshot 2024-01-30 180451" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/9d8f48df-f41d-4404-87cd-cb1be85a2675">
 
-Mp4
+
+### MP4
+
+
+
+https://github.com/Nithinraj142/Registration_Database/assets/135819260/cd13060b-375a-40de-a8b4-e0d56c3d3432
+
 
 
 
