@@ -92,3 +92,20 @@ This URL corresponds to the location where you have deployed the project on your
 ---
 
 Make sure to replace `"path/to/your/project"` with the actual path to your project directory relative to the `localhost` URL. Additionally, include the `registration.sql` file in the repository so that users can easily set up the database.
+
+Screenschots 
+
+<img width="506" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/f76edc82-356b-4bc9-a450-554c49124557">
+<img width="500" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/20209128-abde-458d-8d19-b6f3d1775de6">
+<img width="887" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/5e1e2179-41fb-477e-8784-6b2fe85f7aa7">
+<img width="904" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/3ad10395-9b62-4cc7-8e92-d3a301099e21
+<img width="433" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/ac12c4b5-1c02-44ff-b629-3f768960e1b6">
+<img width="350" alt="image" src="https://github.com/Nithinraj142/Registration_Database/assets/135819260/ba560f06-e78a-4187-bfe2-12baf0be3b87">
+
+Mp4
+
+
+
+
+
+
