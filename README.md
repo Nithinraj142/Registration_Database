@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed on your system:
 3. **Set up the project:**
 
   **Access the PHP Script:**
-   - Place the PHP script (`test.php`) inside the `htdocs/code` directory of your XAMPP installation.
+   - Place the PHP script (`test.php`) inside the `htdocs/code` directory of your XAMPP directory.
    - Open your web browser and navigate to `http://localhost/code/test.php` to run the script.
 
 #### PHP Version Information
