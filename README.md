@@ -25,17 +25,31 @@ Before you begin, ensure you have the following installed on your system:
 
 3. **Set up the project:**
 
-   - Clone or download this project repository to your local machine.
+  **Access the PHP Script:**
+   - Place the PHP script (`test.php`) inside the `htdocs/code` directory of your XAMPP installation.
+   - Open your web browser and navigate to `http://localhost/code/test.php` to run the script.
+
+#### PHP Version Information
+
+To check the PHP version and enabled extensions, follow these steps:
+
+   - Start the Apache server if it is not already running.
+   - Open your web browser and enter the following URL:
+     ```
+     http://localhost/code/test.php
+     ```
+   - This will execute the `test.php` script on your local server and display the PHP version and enabled extensions.
+
+By following these instructions, users can easily run the provided PHP script (`test.php`) on their local XAMPP server and check the PHP version and enabled extensions.
 
 4. **Database Configuration:**
 
-   - Open your web browser and navigate to ``.
+   - Open your web browser and navigate to `http://localhost/code/test.php`.
    - Create a new database named `registration_nr`.
    - Import the `registration.sql` file located in the `database` directory of this project to create the necessary table structure.
 
 5. **Configure the database connection:**
 
-   - Open `index.php` in the root directory of the project.
    - Update the `$servername`, `$username`, and `$password` variables to match your MySQL server credentials.
 
 ## Usage
@@ -72,12 +86,6 @@ http://localhost/code/test.php
 This URL corresponds to the location where you have deployed the project on your local server. Replace `/code/test.php` with the actual path to your `test.php` file relative to the root directory of your web server.
 
 ---
-#### Credentials Used
-
-- **Database Connection:**
-  - Username: `root`
-  - Password: `'Nithinraj'` 
-  - These credentials are used to establish a connection to the MySQL database server running locally on your machine through XAMPP.
   
 #### Technologies Used
 
@@ -91,7 +99,7 @@ This URL corresponds to the location where you have deployed the project on your
 - This system does not include authentication or validation of user inputs. It is meant for demonstration purposes and should be extended with proper validation and security measures before use in production environments.
 ---
 
-Make sure to replace `"path/to/your/project"` with the actual path to your project directory relative to the `localhost` URL. Additionally, include the `registration.sql` file in the repository so that users can easily set up the database.
+
 
 ### Screenshots 
 
